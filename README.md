@@ -108,14 +108,6 @@ Other sessions are held **live online**, allowing students to ask questions dire
 All sessions (live or recorded) remain accessible afterwards for review.
 A detailed schedule with session format (recorded/live) is available in the **Topics** section.
 
-## 🧭 How to Enroll
-
-To enroll, click **HERE** or press the **“ENROLL”** button and follow the steps.
-After successful payment, you’ll be officially registered for the training.
-
-* **Enrollment Deadline**: 12 October 2025
-* **Course Start**: 14 October 2025
-
 ## 🛠️ How to Use
 
 1. Clone the repository using:
