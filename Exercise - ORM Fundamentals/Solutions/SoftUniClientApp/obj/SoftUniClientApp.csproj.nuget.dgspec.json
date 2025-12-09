@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - ORM Fundamentals/Solutions/SoftUniClientApp/SoftUniClientApp.csproj": {}
+  },
+  "projects": {
+    "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - ORM Fundamentals/Solutions/MiniORM/MiniORM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - ORM Fundamentals/Solutions/MiniORM/MiniORM.csproj",
+        "projectName": "MiniORM",
+        "projectPath": "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - ORM Fundamentals/Solutions/MiniORM/MiniORM.csproj",
+        "packagesPath": "/home/anonymous/.nuget/packages/",
+        "outputPath": "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - ORM Fundamentals/Solutions/MiniORM/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/anonymous/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/anonymous/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - ORM Fundamentals/Solutions/SoftUniClientApp/SoftUniClientApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - ORM Fundamentals/Solutions/SoftUniClientApp/SoftUniClientApp.csproj",
+        "projectName": "SoftUniClientApp",
+        "projectPath": "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - ORM Fundamentals/Solutions/SoftUniClientApp/SoftUniClientApp.csproj",
+        "packagesPath": "/home/anonymous/.nuget/packages/",
+        "outputPath": "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - ORM Fundamentals/Solutions/SoftUniClientApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/anonymous/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - ORM Fundamentals/Solutions/MiniORM/MiniORM.csproj": {
+                "projectPath": "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - ORM Fundamentals/Solutions/MiniORM/MiniORM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/anonymous/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
