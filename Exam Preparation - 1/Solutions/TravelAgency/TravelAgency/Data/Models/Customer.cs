@@ -1,0 +1,30 @@
+namespace TravelAgency.Data.Models
+{
+    using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
+
+    public class Customer
+    {
+        public Customer()
+        {
+            this.Bookings = new HashSet<Booking>();
+        }
+
+        [Key]
+        public int Id { get; set; }
+
+        [Required]
+        [MaxLength(60)]
+        public string FullName { get; set; } = null!;
+
+        [Required]
+        [MaxLength(50)]
+        public string Email { get; set; } = null!;
+
+        [Required]
+        [MaxLength(13)]
+        public string PhoneNumber { get; set; } = null!;
+
+        public virtual ICollection<Booking> Bookings { get; set; }
+    }
+}
