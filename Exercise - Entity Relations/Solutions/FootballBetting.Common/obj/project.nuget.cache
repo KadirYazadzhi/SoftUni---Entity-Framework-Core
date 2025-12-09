@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e9hQY9h4gTo=",
+  "success": true,
+  "projectFilePath": "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - Entity Relations/Solutions/FootballBetting.Common/FootballBetting.Common.csproj",
+  "expectedPackageFiles": [
+    "/home/anonymous/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/anonymous/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

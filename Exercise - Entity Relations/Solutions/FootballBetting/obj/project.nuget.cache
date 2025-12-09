@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "MhFX7oatZDo=",
+  "success": false,
+  "projectFilePath": "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - Entity Relations/Solutions/FootballBetting/FootballBetting.csproj",
+  "expectedPackageFiles": [
+    "/home/anonymous/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/anonymous/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/anonymous/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project '/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - Entity Relations/Solutions/P02_FootballBetting.Common/P02_FootballBetting.Common.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - Entity Relations/Solutions/P02_FootballBetting.Common/P02_FootballBetting.Common.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project '/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - Entity Relations/Solutions/P02_FootballBetting.Data/P02_FootballBetting.Data.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "/home/anonymous/Documents/GitHub/SoftUni---Entity-Framework-Core/Exercise - Entity Relations/Solutions/P02_FootballBetting.Data/P02_FootballBetting.Data.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
